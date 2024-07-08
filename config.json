@@ -13,11 +13,11 @@
 		"fca-umaru-v1",
 		"fca-umaru-v2"
 	],
-	"botname": "Umaru",
-	"prefix": "/",
-	"nickname": "》 {prefix} 《 ❃ ➠ {botname} ",
+	"botname": "Dankemmer",
+	"prefix": "-",
+	"nickname": "》 {prefix} 《 ❃ ➠ {Dankmemerv7} ",
 	"adminbot": [
-		"100052086120278"
+		"100093708672653"
 	],
 	"RankupMode": "canvas",
 	"WelcomeMode": "canvas",
